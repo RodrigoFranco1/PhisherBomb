@@ -1,2 +1,30 @@
 # PhisherBomb
-El objetivo de este script en Python es saturar el sitio de phishing con información falsa como una forma de proteger a las victimas al hacer más difícil para los atacantes identificar datos legítimos.
+
+## Descripción
+
+PhisherBomb es una herramienta escrita en Python diseñada para proteger contra sitios de phishing. Utiliza datos generados de manera aleatoria para saturar sitios de phishing con información no válida, con el objetivo de proteger a los usuarios de ser engañados por estos sitios.
+
+## Advertencia Legal
+
+Este software se proporciona con fines educativos y de concienciación sobre el phishing. No se fomenta ni se apoya el uso de PhisherBomb para actividades ilegales o no éticas. El uso indebido de esta herramienta puede estar sujeto a consecuencias legales. Siempre actúe de acuerdo con las leyes locales y los principios éticos.
+
+## Instalación
+
+```bash
+git clone https://github.com/[tu_usuario]/PhisherBomb.git
+cd PhisherBomb
+```
+## Requerimientos
+
+Python3
+
+## Uso 
+```bash
+python phisherbomb.py -u http://example.com -r 1000
+
+python phisherbomb.py --url http://example.com --requests 1000
+
+```
+
+## Contribuciones
+Las contribuciones a este proyecto son bienvenidas. Si tienes ideas o sugerencias para mejorar esta herramienta, no dudes en abrir un 'issue' o un 'pull request'.
