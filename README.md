@@ -2,7 +2,7 @@
 
 ## Descripción
 
-PhisherBomb es una herramienta escrita en Python diseñada para proteger contra sitios de phishing. Utiliza datos generados de manera aleatoria para saturar sitios de phishing con información no válida, con el objetivo de proteger a los usuarios de ser engañados por estos sitios.
+PhisherBomb es una herramienta escrita en Python diseñada para denfenderse contra sitios de phishing. Utiliza datos generados de manera aleatoria para saturar las bases de datos de estos sitios con información falsa ahogando a los atacantes con miles de datos invalidos, esto con el objetivo de proteger a las victimas que hayan ingresado sus datos reales.
 
 ## Advertencia Legal
 
