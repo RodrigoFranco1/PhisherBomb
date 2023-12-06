@@ -11,7 +11,7 @@ Este software se proporciona con fines educativos y de concienciación sobre el 
 ## Instalación
 
 ```bash
-git clone https://github.com/[tu_usuario]/PhisherBomb.git
+git clone https://github.com/RodrigoFranco1/PhisherBomb.git
 cd PhisherBomb
 ```
 ## Requerimientos
